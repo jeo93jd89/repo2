@@ -1,3 +1,13 @@
+# Проверим работу русского шрифта
+
+```
+Это текст на русском
+```
+
++```
++И это тоже текст на русском
++```
+
 # The files
 
 Now that we have a dir that is a properly formatted Git repo, let's create a few new files for a demo web app that we can being to add to version control.
